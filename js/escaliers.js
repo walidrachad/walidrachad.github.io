@@ -9,6 +9,7 @@ const images = [
     "assets/images/escaliers/s8.jpg",
     "assets/images/escaliers/s9.jpg",
     "assets/images/escaliers/s10.jpg",
+    "assets/images/escaliers/13.png",
 ];
 images.forEach((src) => {
     document.write(`
